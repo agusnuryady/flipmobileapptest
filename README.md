@@ -37,8 +37,11 @@ Show Transaction list and detail from frontend developer Flip Test
     <img width="200" src="https://github.com/agusnuryady/flipmobileapptest/blob/master/src/assets/images/sc_2.jpg">
     <img width="200" src="https://github.com/agusnuryady/flipmobileapptest/blob/master/src/assets/images/sc_3.jpg">
     <img width="200" src="https://github.com/agusnuryady/flipmobileapptest/blob/master/src/assets/images/sc_4.jpg">
+<<<<<<< HEAD
     <img width="200" src="https://github.com/agusnuryady/flipmobileapptest/blob/master/src/assets/images/sc_5.jpg">
     <img width="200" src="https://github.com/agusnuryady/flipmobileapptest/blob/master/src/assets/images/sc_6.jpg">
+=======
+>>>>>>> ae2e5d7ec89d4432556fa894d0c183d317b1426f
 </div>
 
 ## APPS
