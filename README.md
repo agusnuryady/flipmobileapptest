@@ -33,14 +33,16 @@ Show Transaction list and detail from frontend developer Flip Test
 
 ## Screenshot
 <div align="center">
-    <img width="200" src="https://github.com/agusnuryady/Simple-Events/blob/master/src/assets/images/sc_1.jpg">
-    <img width="200" src="https://github.com/agusnuryady/Simple-Events/blob/master/src/assets/images/sc_2.jpg">
-    <img width="200" src="https://github.com/agusnuryady/Simple-Events/blob/master/src/assets/images/sc_3.jpg">
-    <img width="200" src="https://github.com/agusnuryady/Simple-Events/blob/master/src/assets/images/sc_4.jpg">
+    <img width="200" src="https://github.com/agusnuryady/flipmobileapptest/blob/master/src/assets/images/sc_1.jpg">
+    <img width="200" src="https://github.com/agusnuryady/flipmobileapptest/blob/master/src/assets/images/sc_2.jpg">
+    <img width="200" src="https://github.com/agusnuryady/flipmobileapptest/blob/master/src/assets/images/sc_3.jpg">
+    <img width="200" src="https://github.com/agusnuryady/flipmobileapptest/blob/master/src/assets/images/sc_4.jpg">
+    <img width="200" src="https://github.com/agusnuryady/flipmobileapptest/blob/master/src/assets/images/sc_5.jpg">
+    <img width="200" src="https://github.com/agusnuryady/flipmobileapptest/blob/master/src/assets/images/sc_6.jpg">
 </div>
 
 ## APPS
-* [Android APk](https://github.com/agusnuryady/Simple-Events/blob/master/android/app/src/app-release.apk)
+* [Android APk](https://github.com/agusnuryady/flipmobileapptest/blob/master/android/app/src/app-release.apk)
 
 ## Contributors
 * Created by @agusnuryady
